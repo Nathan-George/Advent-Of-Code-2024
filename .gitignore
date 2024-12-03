@@ -1,0 +1,12 @@
+# my inputs
+src/inputs/
+src/sample.in
+
+# zig build files
+.zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+/docgen_tmp/
