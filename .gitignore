@@ -1,6 +1,6 @@
 # my inputs
-src/inputs/
-src/sample.in
+#src/inputs/
+#src/sample.in
 
 # zig build files
 .zig-cache/
